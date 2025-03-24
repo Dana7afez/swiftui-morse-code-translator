@@ -46,4 +46,4 @@ To run this project, you need to have Xcode installed on your macOS system. Foll
 ## Authors
 
 - [Dana Hafez](https://github.com/Dana7afez)
-- [Rama Alshebel](https://github.com/RamaAlshebel)
+- [Rama Alshebel](https://github.com/Ramafahad)
